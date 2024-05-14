@@ -21,7 +21,7 @@ const routes : Routes = [
   },
 
   {
-    path: 'by:/id',
+    path: 'by/:id',
     component: CountryPageComponent,
   },
   {
